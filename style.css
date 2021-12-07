@@ -1,0 +1,24 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.container{
+  background-color: grey;
+  padding: 10px;
+  display: flex;
+  flex-wrap:wrap;
+  flex-direction: column;
+  align-items: flex-end;
+  
+ 
+}
+
+.items{
+  background-color: rgb(158, 156, 156);
+  padding: 10px;
+  color: white;
+  margin: 10px;
+}
+  
+
